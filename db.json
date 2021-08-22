@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "name": "qwe",
+      "comment": "123",
+      "id": 2
+    },
+    {
+      "name": "qweq",
+      "comment": "12322",
+      "id": 3
+    },
+    {
+      "name": "qweeeeee",
+      "comment": "``121",
+      "id": 4
+    },
+    {
+      "name": "qwe",
+      "comment": "qwe",
+      "id": 5
+    },
+    {
+      "name": "qwe",
+      "comment": "spam",
+      "id": 6
+    },
+    {
+      "name": "qwe",
+      "comment": "123",
+      "id": 7
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
